@@ -1,1 +1,1 @@
-python_dev_test
+Репозиторий для обучения Python
