@@ -1,4 +1,4 @@
-population_density = sorted([8.56, 3.5, 139, 32, 23.6, 2.8, 375])
+population_density = sorted([8.56, 3.5, 139, 32, 23.6, 2.8, 357])
 
 print("Average density: ", sum(population_density) / len(population_density))
 print("Minimum density: ", population_density[0])
